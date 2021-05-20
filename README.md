@@ -1,5 +1,9 @@
 # SortingAlgorithms
-Lab 2: Exceptions/Sorting - Part 1: Benchmarking Sorting Algorithms from Eck, D. J. (2019). Introduction to programming using Java, version 8.1. Hobart and William Smith Colleges. http://math.hws.edu/eck/cs225/s09/lab2/index.html
+Exercise from http://math.hws.edu/eck/cs225/s09/lab2/index.html
+
+CPSC 225, Spring 2009 Lab 2: Exceptions/Sorting
+
+Part 1: Benchmarking Sorting Algorithms
 
 The same task can take vastly different amounts of time, depending on the algorithm that is used to perform the task. You are familiar with simple sorting algorithms such as insertion sort and selection sort. (See Section 7.4 in the textbook.) While these methods work fine for small arrays, for larger arrays they can take an unreasonable amount of time. The question is whether we can do any better.
 
